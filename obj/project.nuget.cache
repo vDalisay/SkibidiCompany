@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WrNrpmAHS13IRwEDUrGoEPOxPheuqwxP4UJcE9p5RgqILorbEtNigqqke4KNGWRhU98CienS2jsQpP/7d7c4xw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Home\\Documents\\PERSONAL\\PROJECTS\\SkibidiCompany\\SkibidiCompany\\SkibidiCompany.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Home\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\Home\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net481\\1.0.3\\microsoft.netframework.referenceassemblies.net481.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
